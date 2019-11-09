@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Epita.TableStorage.Gateway", "Epita.TableStorage.Gateway\Epita.TableStorage.Gateway.csproj", "{892E35D4-BD2C-4A94-AE0B-0E458778DA67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Epita.TableStorage.Logic.Contracts", "Epita.TableStorage.Logic.Contracts\Epita.TableStorage.Logic.Contracts.csproj", "{729FB0CE-73B5-4A07-B4E6-AEC1F046C3EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Epita.TableStorage.Model", "Epita.TableStorage.Model\Epita.TableStorage.Model.csproj", "{1AACEFD6-3371-4D69-AB3E-969B86520CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epita.TableStorage.Logic", "Epita.TableStorage.Logic\Epita.TableStorage.Logic.csproj", "{EE3F89B6-00FF-49E5-83EC-EB53B13C50E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892E35D4-BD2C-4A94-AE0B-0E458778DA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892E35D4-BD2C-4A94-AE0B-0E458778DA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892E35D4-BD2C-4A94-AE0B-0E458778DA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892E35D4-BD2C-4A94-AE0B-0E458778DA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729FB0CE-73B5-4A07-B4E6-AEC1F046C3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729FB0CE-73B5-4A07-B4E6-AEC1F046C3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729FB0CE-73B5-4A07-B4E6-AEC1F046C3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729FB0CE-73B5-4A07-B4E6-AEC1F046C3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AACEFD6-3371-4D69-AB3E-969B86520CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AACEFD6-3371-4D69-AB3E-969B86520CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AACEFD6-3371-4D69-AB3E-969B86520CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AACEFD6-3371-4D69-AB3E-969B86520CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3F89B6-00FF-49E5-83EC-EB53B13C50E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3F89B6-00FF-49E5-83EC-EB53B13C50E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3F89B6-00FF-49E5-83EC-EB53B13C50E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3F89B6-00FF-49E5-83EC-EB53B13C50E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB2A57A-83BA-4C9A-8C0D-C6BFC392AD2B}
+	EndGlobalSection
+EndGlobal
